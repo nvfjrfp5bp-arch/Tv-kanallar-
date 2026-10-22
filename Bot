@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="US" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/matchbox-the-movie-50201.webp" group-title="Sinema", MATCHBOX THE MOVIE
+https://s34.cdnimages5261.shop/m7/GJS0L2uvo3thITuyYx1iqzyyYwVjZwLhI0IPYHEZYwRjBQOjYxEIDHjhFP4lAwDgFREAd0zxL2EhnJ1uM2ImAGV2ZF5mnT9js0xi34avr1
+#EXTINF:-1 tvg-country="US" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/lego-disney-prenses-kale-macerasi-lego-disney-princess-the-castle-quest-5755.webp" group-title="Sinema", LEGO DISNEY PRINCESS: CASTLE ADVENTURE LEGO
+https://s27.images8342.shop/m3/GRIUGl5RnKAhMKxhHUWcozAyp3ZhITuyYxAup3EfMF5EqJImqP4lZQVmYyqSDv1RGP4kZQtjpP5RIHSZYxthZwL0YHuRGDd0zxnJ1uM2ImBQZ0Zv5mnT9js0xi27vr1
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/kral-sakir-cumburlop-4096.webp" group-title="Sinema", KRAL ŞAKİR: CUMBURLOP! (EXXEN)
+https://s27.cdnstatic7594.shop/mt/F3WuoP5GLJgcpv5QqJ1vqKWfo3NhZwNlZl4kZQtjpP5KMJWFnKNhrQV2AP5HHv5MMKWfnF5TnJkgLz9fd0zxL2Ehp3EuqTywAmH5AP5mnT9js0xi27avr1
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/film-tt5522210.webp" group-title="Sinema", SOL ŞERİT
+https://s34.cdnimages5189.shop/mt/H29fYyAypzy0YwVjZGLhZGN4ZUNhI0IPYHEZYyEFYaE0AGHlZwVkZNd0zxL2EhnJ1uM2ImAGR4BF5mnT9js0xi34avr1
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/film-tt0290139.webp" group-title="Sinema", AVARE MUSTAFA
+https://s36.cdnimage1006.shop/mi/DKMupzHhGKImqTSzLF4kBGLkYwRjBQOjYyqSDv1RGP5HHv50qQNlBGNkZmxd0zxL2EhnJ1uM2HkZQN2YaAbo3Ns0xi36avr1
+#EXTINF:-1 tvg-country="US" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/film-tt0031448.webp" group-title="Sinema",  THE HOUND OF THE BASKERVİLLER
+https://s37.images2688.shop/mv/DzSmn2IlqzyfoTIlnJ4hF29jMJqcYyEbMF5Vo3IhMP5iMv50nTHhDzSmn2IlqzyfoTImYwR5ZmxhZGN4ZUNhEH5UYaE0ZQNmZGD0BNd0zxnJ1uM2ImZwL4BP5mnT9js0xi37avr1
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://img.fullhdfilmizlesene.now/poster/izle-lg/dong-bei-jing-cha-gu-shi-2-41491.webp" group-title="Sinema", 索尼贝提示布式2
+https://s32.cdnimage3542.shop/mr/ET9hMl5PMJxhFzyhMl5QnTRhE3HhH2ucYwVhZwNlZl4kZQtjpP5KnKNd0zxL2EhnJ1uM2HmAGDlYaAbo3Ns0xi32avr1
+#EXTINF:-1 tvg-country="CN" tvg-logo="https://img.dizifilmizle.to/film/poster/i-am-what-i-am-2-mta33f7q.avif" group-title="Sinema", 功夫小子
+https://vidmixi.com/list/OE9hc2JuSTBXQitpY3RyWkorSmpiT3B0dlBld01QdFFZTEhuUkcrY0pBY1BzZE9FeGFreG9Pdy95WTg5cHgzNEpVb0phZytoZTlSV1lNZWt4anZsZ0l3MWM5Z3htTnBZaUd5S1RSUVBnQk1qc25QY242b3g3Si9NZmRyTUI1N1dSLzkrdDMvVS9DQVlrTGlNQzJZeTFRPT0=
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://asftv.com.tr/config/api/file.php?path=uploads%2Fbiz-logo-20260926213839-7535.png" group-title="TV", ASF TV
+https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="KR" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/arirang-vipotv.png" group-title="TV", Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/i/atv-logo.png" group-title="TV", ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://www.finest.tv/themes/default/assets/images/logo2017.png" group-title="TV", Fintest TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://media.finest.tv/dash/live.mpd
+
